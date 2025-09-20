@@ -18,3 +18,22 @@
 
 - **Full Text Output**  
   Leave the input blank to output the entire text.
+
+  ## 🔧 Quick Start
+
+1. **Download the project**  
+   - Click the green **Code** button on GitHub → **Download ZIP**  
+   - Or clone with Git:  
+     ```bash
+     git clone https://github.com/JinningL/Smart-Paper-Lens.git
+     ```
+
+2. **Open in Chrome**  
+   - Go to `chrome://extensions/`  
+   - Turn on **Developer mode** (top right)  
+   - Click **Load unpacked**  
+   - Select the project folder you just downloaded/extracted  
+
+3. **Done 🎉**  
+   - The extension icon will appear in your Chrome toolbar  
+   - Open any webpage or PDF, click **Smart Paper Lens**, and start analyzing  
